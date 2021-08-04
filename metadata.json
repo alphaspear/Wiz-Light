@@ -1,0 +1,8 @@
+{
+  "name": "Wiz Light",
+  "description": "Control Wiz Light Through Gnome Shell",
+  "uuid": "wizlight@iabhilashjoshi@gmail.com",
+  "shell-version": [
+    "3.38"
+  ]
+}

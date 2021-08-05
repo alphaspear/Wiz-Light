@@ -1,7 +1,8 @@
 {
   "name": "Wiz Light",
-  "description": "Control Wiz Light Through Gnome Shell",
-  "uuid": "wizlight@iabhilashjoshi@gmail.com",
+  "description": "Control Wiz Connected Lights Through Gnome Shell",
+  "url" : "https://github.com/alphaspear/Wiz-Light",
+  "uuid": "wizlight@iabhilashjoshi",
   "shell-version": [
     "3.38"
   ]

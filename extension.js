@@ -25,13 +25,13 @@ class Indicator extends PanelMenu.Button {
 
         let item = new PopupMenu.PopupMenuItem(_('Lights On'));
         item.connect('activate', () => {
-            Util.spawn(["python3",".local/share/gnome-shell/extensions/wizlight@iabhilashjoshi@gmail.com/on.py"]);
+            Util.spawn(["python3",".local/share/gnome-shell/extensions/wizlight@iabhilashjoshi/on.py"]);
             Main.notify(_('Power On Signal Sent'));
         });
         
         let item2 = new PopupMenu.PopupMenuItem(_('Lights Off'));
         item2.connect('activate', () => {
-            Util.spawn(["python3",".local/share/gnome-shell/extensions/wizlight@iabhilashjoshi@gmail.com/off.py"]);
+            Util.spawn(["python3",".local/share/gnome-shell/extensions/wizlight@iabhilashjoshi/off.py"]);
             Main.notify(_('Power Off Signal Sent'));
         });
         this.menu.addMenuItem(item);

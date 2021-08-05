@@ -2,7 +2,7 @@
 
 [<img src="https://github.com/andyholmes/gnome-shell-extensions-badge/raw/master/get-it-on-ego.svg" width=120px>](https://extensions.gnome.org/extension/4436/wiz-light/)
 
-Simple [gnome-shell](https://wiki.gnome.org/Projects/GnomeShell) (v1.0) extension that lets you control wiz connected smart bulbs.
+Simple [gnome-shell](https://wiki.gnome.org/Projects/GnomeShell) extension that lets you control wiz connected smart bulbs.
 <br>
 Requirements:<br>
         #Wiz enabled smart bulb<br>

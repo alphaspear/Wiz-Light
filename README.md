@@ -14,4 +14,4 @@ To Use go to the location where extension is installed (usually stored in "~/.lo
 <br><br>
 ## Screenshot
 
-![image](https://extensions.gnome.org/extension-data/screenshots/screenshot_4436_YjEYH5A.png)
+![image](https://extensions.gnome.org/extension-data/screenshots/screenshot_4436_vT1aOkI.png)

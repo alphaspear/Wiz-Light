@@ -10,7 +10,7 @@ Requirements:<br>
         #pywizlight (To install use command "pip3 install pywizlight")<br>
 <br>
 <br>
-To Use go to the location where extension is installed (usually stored in "~/.local/share/gnome-shell/extensions") and change IP address in on.py and off.py to your smart bulb's IP address and then extension should work.
+To Use go to the location where extension is installed (usually stored in "~/.local/share/gnome-shell/extensions") and change IP address in extension.js file to your smart bulb's IP address and then extension should work.
 <br><br>
 ## Screenshot
 

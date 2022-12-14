@@ -3,7 +3,11 @@
   "description": "Control Wiz Connected Lights Through Gnome Shell\n\nRequirements:\n        #Wiz enabled smart bulb\n        #python3  (To install  use command \"sudo apt install python3\")\n        #pywizlight (To install use command \"pip3 install pywizlight\")\n\nTo Use go to the location where extension is installed (usually stored in \"~/.local/share/gnome-shell/extensions\") and change IP address in on.py and off.py to your smart bulb's IP address and then extension should work.",
   "name": "Wiz Light",
   "shell-version": [
-    "3.38"
+    "3.38",
+    "40",
+    "41",
+    "42",
+    "43"
   ],
   "url": "https://github.com/alphaspear/Wiz-Light",
   "uuid": "wizlight@iabhilashjoshi",
